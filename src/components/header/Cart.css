@@ -1,0 +1,17 @@
+.main-cart {
+  display: flex;
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;
+  padding-left: 4rem;
+  padding-right: 4rem;
+  align-items: center;
+  justify-content: space-between;
+  text-align: center;
+  color: white;
+  width: 7rem;
+  height: 2.5rem;
+  text-align: right;
+  /* border: 3px solid; */
+  background-color: black;
+  border-radius: 2rem;
+}

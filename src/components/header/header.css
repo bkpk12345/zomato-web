@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  background-color: brown;
+  padding: 1rem 10rem 1rem;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header h1 {
+  color: white;
+}
+
+.cart-header {
+  text-align: right;
+  color: white;
+  margin: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 1rem;
+}

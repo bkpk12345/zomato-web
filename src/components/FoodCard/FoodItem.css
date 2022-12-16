@@ -1,0 +1,21 @@
+.food-item {
+  padding-top: 1rem;
+  margin-top: 1rem;
+  margin-left: 4rem;
+  margin-right: 4rem;
+  border-style: outset;
+}
+
+.food-name {
+  color: black;
+  font-size: large;
+}
+
+.food-desc {
+  color: black;
+  font-size: large;
+}
+.food-price {
+  color: black;
+  font-size: large;
+}
