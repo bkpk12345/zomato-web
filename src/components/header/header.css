@@ -1,9 +1,12 @@
 .header {
   display: flex;
   background-color: brown;
-  padding: 1rem 10rem 1rem;
+  padding: 1px 8rem 1px;
   align-items: center;
   justify-content: space-between;
+  margin-left: 14rem;
+  margin-right: 14rem;
+  border-radius: 0.2rem;
 }
 
 .header h1 {
@@ -11,9 +14,8 @@
 }
 
 .cart-header {
-  text-align: right;
   color: white;
-  margin: 2rem;
+  margin: 1rem;
   padding-top: 0rem;
-  padding-bottom: 1rem;
+  /* padding-bottom: 1rem; */
 }

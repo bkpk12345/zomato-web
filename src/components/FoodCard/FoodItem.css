@@ -1,7 +1,11 @@
 .food-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
   padding-top: 1rem;
-  margin-top: 1rem;
-  margin-left: 4rem;
+  padding-right: 3rem;
+  margin-bottom: 1rem;
+  margin-left: 10rem;
   margin-right: 4rem;
   border-style: outset;
 }
